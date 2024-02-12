@@ -1,0 +1,10 @@
+
+.preview-card img {
+    width: 100%;
+    height: auto;
+    display: blockS;
+    margin: 10px;
+    margin-right: 50px;
+    box-shadow: 10px 10px 10px snow;
+
+}
